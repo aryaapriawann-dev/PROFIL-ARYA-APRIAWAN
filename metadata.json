@@ -1,0 +1,6 @@
+{
+  "name": "Arya Apriawan — Inovator Computer Vision Deteksi Rakaat Salat",
+  "description": "Web profil resmi dan simulasi interaktif karya Arya Apriawan, mahasiswa Sistem dan Teknologi Informasi UMKENDARI pencipta sistem deteksi rakaat salat berbasis Computer Vision (OpenCV Python).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
